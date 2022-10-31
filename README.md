@@ -1,1 +1,2 @@
-This is some text in my README.
+This is the first line of text in my README.
+Now I'm going to add my second line of text.
